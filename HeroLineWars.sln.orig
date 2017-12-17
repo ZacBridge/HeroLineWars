@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroLineWars", "HeroLineWars.csproj", "{CA65E9F3-21CA-B9E7-2637-50B4AAF581D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroLineWars.Editor", "HeroLineWars.Editor.csproj", "{D95780A9-D4A4-233F-F0C8-D13389D86071}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA65E9F3-21CA-B9E7-2637-50B4AAF581D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA65E9F3-21CA-B9E7-2637-50B4AAF581D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA65E9F3-21CA-B9E7-2637-50B4AAF581D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA65E9F3-21CA-B9E7-2637-50B4AAF581D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D95780A9-D4A4-233F-F0C8-D13389D86071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95780A9-D4A4-233F-F0C8-D13389D86071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95780A9-D4A4-233F-F0C8-D13389D86071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95780A9-D4A4-233F-F0C8-D13389D86071}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
